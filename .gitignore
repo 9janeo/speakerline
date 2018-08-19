@@ -25,3 +25,5 @@ examples.txt
 .env
 
 /coverage/*
+
+/config/database.yml
